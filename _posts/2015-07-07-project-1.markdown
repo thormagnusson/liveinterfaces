@@ -1,0 +1,15 @@
+---
+title: Papers
+subtitle: Paper Proceedings
+layout: default
+modal-id: 1
+date: 2015-07-07
+img: papers.png
+thumbnail: papers-thumbnail.png
+alt: image-alt
+project-date: July 2015
+client: Live Interfaces
+category: Conference
+description: Hljods bid eg allar kindir | meiri og minni mogu Heimdalar | vildu ad eg Valfodur vel fyr telja | forn spjoll fira thau er fremst um man.
+
+---
