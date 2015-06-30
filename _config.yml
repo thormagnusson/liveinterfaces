@@ -1,10 +1,9 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://thormagnusson.github.io/liveinterfaces
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: International Conference on Live Interfaces
+email: t.magnusson@sussex.ac.uk
+description: " this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -50,7 +49,7 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/liveinterfaces
   - title: facebook
     url:
   - title: stack-overflow
@@ -62,8 +61,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Sussex University 
+  - line: United Kingdom
 
 # Build settings
 markdown: kramdown
