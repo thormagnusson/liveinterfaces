@@ -1,65 +1,29 @@
-url: https://thormagnusson.github.io
-baseurl: /liveinterfaces/
-
 # Site settings
-title: Live Interfaces
-email: t.magnusson@sussex.ac.uk
-description: "The Interntational Conference on Live Interfaces will include paper presentations, performances, interactive installations, poster demonstrations and workshops."
+title: Grayscale
+email: your-email@domain.com
+url: https://example.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
-  secondary-dark: 333
+  primary-dark: '#000000'
+  links: '#219ab3'
 
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+# Footer settings
+footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/liveinterfaces
+    url: https://twitter.com/SBootstrap
   - title: facebook
     url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/thormagnusson/liveinterfaces
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: University of Sussex
-  - line: United Kingdom
+    url: https://github.com/IronSummitMedia/startbootstrap
 
 # Build settings
 markdown: kramdown

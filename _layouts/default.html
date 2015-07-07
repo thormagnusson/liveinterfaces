@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
-
-    <body id="page-top" class="index">
-
+    {% include head.html %}
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    {% include nav.html %}
     {% include header.html %}
     {% include about.html %}
     {% include programme.html %}
@@ -13,8 +10,6 @@
     {% include organisation.html %}
     {% include brighton.html %}
     {% include footer.html %}
-    {% include modals.html %}
     {% include js.html %}
-
     </body>
 </html>
