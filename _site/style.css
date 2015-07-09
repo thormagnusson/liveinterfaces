@@ -271,6 +271,13 @@ a:focus {
     padding-top: 100px;
 }
 
+.cfp-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #000;
+    background-color: #fff;
+}
+
 .download-section {
     width: 100%;
     padding: 50px 0;
