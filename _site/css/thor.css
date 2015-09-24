@@ -1,0 +1,13 @@
+
+.image-wrapper
+{
+position: relative;
+}
+
+
+.scale-image
+{
+display: block;
+width: auto;
+max-width: 75%;
+}
