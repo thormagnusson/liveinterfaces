@@ -1,0 +1,30 @@
+<section id="brighton">
+	<div class="banner">
+		<div class="container">
+
+			<div class="row">
+		
+					<div>
+				<br><br>
+				                <h2>Brighton</h2>
+                <p>The University of Sussex is located in the South Downs National Park at the edge of the beautiful and sunny beach city, Brighton and Hove. The conference will take place in the recently renovated <a href="http://www.sussex.ac.uk/acca/">Attenborough Centre for the Creative Arts</a> as well as on other campus locations. The conference will engage with the city in many ways, for example with events open for members of the public as well as running some of the late night events in Brighton clubs.
+                </p>
+
+                <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d2518.193841568312!2d-0.08913922271244629!3d50.8646110571229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e2!4m5!1s0x487588b510bc27bb%3A0x29a07b41468f59f7!2sAttenborough+Centre%2C+Falmer%2C+Brighton+BN1+9QF%2C+UK!3m2!1d50.864559899999996!2d-0.0899116!4m5!1s0x487588ca9c6619bf%3A0x97937c332c494df4!2sSilverstone%2C+Brighton+BN1+9RG%2C+UK!3m2!1d50.8667403!2d-0.0898736!4m5!1s0x487588b415ac8927%3A0xa22a0eee0abb868e!2sStation+Approach%2C+Falmer%2C+Brighton+BN1+9SD%2C+UK!3m2!1d50.8624583!2d-0.0872725!5e0!3m2!1sen!2suk!4v1436347084758" width="750" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </p>
+                
+                <ul class="list-inline banner-social-buttons">
+                    {% for network in site.social %}
+                    <li>
+                        <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+			</div>
+</div>
+		</div>
+		<!-- /.container -->
+
+	</div>
+</section>
+<!-- /.banner -->
