@@ -1,18 +1,25 @@
-# Site settings
-title: ICLI
-email: th.list@gmail.com
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
 url: http://www.liveinterfaces.org
-description: "The 3rd International Conference for Live Interfaces"
+title: ICLI
+email: t.magnusson@sussex.ac.uk
+author: Thor Magnusson
+description: > # "The biennial International Conference on Live Interfaces explores the use of performative interfaces across the arts, including music, the visual arts, performance art, dance, magic, comedy, robotics and games. The scope is highly interdisciplinary but with a strong focus on interface technologies in live artistic performance. These could be analog, electronic, digital or post-digital. Topics of liveness, immediacy, presence (and tele-presence), mediation, collaboration and timing or flow are problematised in order to gain a deeper understanding of the role contemporary media and interface technologies play in human expression"
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
-# Footer settings
-footer: ICLI
+# Build settings
+markdown: kramdown
+permalink: pretty
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
 social:
   - title: twitter
     url: https://twitter.com/liveinterfaces
@@ -21,6 +28,3 @@ social:
   - title: github
     url: https://github.com/thormagnusson/liveinterfaces
 
-# Build settings
-markdown: kramdown
-permalink: pretty
