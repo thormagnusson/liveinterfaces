@@ -2,11 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.liveinterfaces.org
-title: ICLI
-email: t.magnusson@sussex.ac.uk
-author: Thor Magnusson
-description: > # "The biennial International Conference on Live Interfaces explores the use of performative interfaces across the arts, including music, the visual arts, performance art, dance, magic, comedy, robotics and games. The scope is highly interdisciplinary but with a strong focus on interface technologies in live artistic performance. These could be analog, electronic, digital or post-digital. Topics of liveness, immediacy, presence (and tele-presence), mediation, collaboration and timing or flow are problematised in order to gain a deeper understanding of the role contemporary media and interface technologies play in human expression"
+url: http://yoursite.com
+title: Your Awesome Site
+email: your-email@domain.com
+author: Your Name
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -22,9 +25,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/liveinterfaces
-  - title: facebook
-    url: https://www.facebook.com/liveinterfaces
+    url: https://twitter.com/SBootstrap
   - title: github
-    url: https://github.com/thormagnusson/liveinterfaces
-
+    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: linkedin
+    url: 
