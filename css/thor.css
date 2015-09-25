@@ -1,4 +1,13 @@
 
+
+.dark-background {
+    padding: 0px 0;
+    color: #f8f8f8;
+    background: #242424;
+    background-size: cover;
+}
+
+
 .image-wrapper
 {
 position: relative;
