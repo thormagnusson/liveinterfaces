@@ -18,7 +18,7 @@ h4,
 h5,
 h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .lead {
@@ -113,9 +113,16 @@ h6 {
 .banner {
     padding: 0px 0;
     color: #f8f8f8;
+
     background: url(../img/banner-bg.jpg) no-repeat center center;
     background-size: cover;
 }
+
+.highlight 
+{
+   background-color: green;
+}
+
 
 /*
 .banner h2 {
@@ -176,8 +183,17 @@ p.copyright {
 .dark-background {
     padding: 0px 0;
     color: #f8f8f8;
+    font-weight: 400;
     background: #242424;
     background-size: cover;
+}
+
+.dark-background a:link {
+    color: #ABC4E8;
+}
+
+.dark-background a:visited {
+    color: #47B26B;
 }
 
 
