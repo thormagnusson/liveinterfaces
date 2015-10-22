@@ -53,6 +53,10 @@ h6 {
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
+.intro-message > h2 {
+    text-shadow: 3px 3px 4px rgba(0,0,0,0.7);
+}
+
 .intro-message > h3 {
     text-shadow: 3px 3px 4px rgba(0,0,0,0.7);
 }
