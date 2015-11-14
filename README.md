@@ -5,19 +5,12 @@ University of Sussex
 ## Organisation team
 
 Thor Magnusson (general chair)
-
 Chris Kiefer (scientific chair)
-
 Alice Eldridge (artistic chair)
-
 Cecile Chevalier (installations chair)
-
 Paul McConnell (workshops chair)
-
 Thanos Polymeneas Liontiris (performance organiser)
-
 Joe Watson (doctoral colloquium organiser)
-
 David Palmer (design)
 
 
