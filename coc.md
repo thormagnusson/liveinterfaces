@@ -1,5 +1,5 @@
 # ICLI - Code of Conduct
-All participants at the International Conference on Live Interfaces are required to adopt with the following code of conduct. "Participants" extends to all attendees, performers, organisers and volunteers. Organisers will ensure this code is upheld throughout the event. We are expecting cooperation from all participants to help ensuring an enjoyable environment for everybody.
+All participants at the International Conference on Live Interfaces are required to adopt with the following code of conduct. "Participants" extends to all attendees, performers, organisers and volunteers. Organisers will ensure this code is upheld throughout the event. We are expecting cooperation from all participants to help ensure an enjoyable environment for everybody.
 
 ## What Is This?
 We want ICLI to be and inclusive safe event for performers, organisers and attendees. For this reason, we have established a clear code of conduct that outlines expectations from all participants. This code also applies to any related social events around ICLI, and extends to online communities and discourse. For more detailed information on why a code of conduct is neccessary, see http://www.ashedryden.com/blog/codes-of-conduct-101-faq
