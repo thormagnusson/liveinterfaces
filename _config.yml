@@ -25,6 +25,9 @@ social:
     url: https://twitter.com/liveinterfaces
   - title: facebook
     url: https://www.facebook.com/liveinterfaces
-  - title: github
-    url: https://github.com/thormagnusson/liveinterfaces
+# ----------------------- #
+#     - title: github
+#    url: https://github.com/thormagnusson/liveinterfaces
+# ----------------------- #
+
 
