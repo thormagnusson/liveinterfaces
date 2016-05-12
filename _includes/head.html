@@ -36,4 +36,15 @@
 
     </script>
 
+    <SCRIPT LANGUAGE="JavaScript">
+function resizeIframeToFitContent(iframe){
+  var height = 780; 
+  var theFrame = window.frames[iframe.id]; 
+  theFrame.frameElement.height = height;
+  height = parseInt(theFrame.document.body.scrollHeight);
+  theFrame.frameElement.height = height;
+}
+</SCRIPT>
+
+
 </head>
