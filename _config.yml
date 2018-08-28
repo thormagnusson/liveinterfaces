@@ -16,6 +16,11 @@ description: > # "The biennial International Conference on Live Interfaces explo
 markdown: kramdown
 permalink: pretty
 
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
